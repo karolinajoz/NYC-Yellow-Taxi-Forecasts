@@ -105,9 +105,9 @@ First version of models used grouped date for whole NYC area and implemeting onl
 
 All Facebook Prophet Models were run with holidays and best performing subset of exogenous variables. Adding exogenous variables helped in improving predictions for NYC by following values: 
 
-Pickup demand | Fare amount   | Trip distance| Tip ratio
-------------- | ------------- |------------- | -------------
-    -10%      |    -2%        |     -5%      |    -20%
+|Pickup demand | Fare amount   | Trip distance| Tip ratio    |
+|    :---:     |    :---:      |    :---:     |    :---:     |
+|    -10%      |    -2%        |     -5%      |    -20%      |
 
 On the chart below you can see a predicted and actual taxi pickup demand in NYC in November 2018.
 
