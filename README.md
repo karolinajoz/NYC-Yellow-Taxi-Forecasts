@@ -2,7 +2,7 @@
 
 #### Time series forecasting project for prediction of NYC yellow taxi pick-up demand, fares, trip distance and tips for the drivers
 
-[Link to detailed presentation on Google Slides](https://docs.google.com/presentation/d/1VB7F82okO_C_BSdAJD7PlY08mFHoK2Uxnn3M9ZTIvH4/edit#slide=id.ge9090756a_2_12)
+[Link to detailed presentation on Google Slides](https://docs.google.com/presentation/d/1SCN1Cu5XPjdGhFRlIU3smznJZErrxTeTKIYBNt1rdCA/edit#slide=id.g7a994420a3_0_191)
 
 Created a dashboard for a taxi company with statistics and forecasts regarding taxi rides
 
